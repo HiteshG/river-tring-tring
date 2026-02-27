@@ -1,11 +1,12 @@
 # Riverline Agent Evaluator
 
 ## States 
+
+This defines current working of riverline debt recollection workflow with state transitions.
 ![Mermaid Diagram](https://raw.githubusercontent.com/HiteshG/river-tring-tring/main/mermaid-diagram.png)
 
-Hybrid evaluation system for WhatsApp debt collection conversations. Combines deterministic rule checks with Gemini LLM judgment to produce quality scores, risk scores, and violation reports.
-
 ## Architecture
+Hybrid evaluation system for WhatsApp debt collection conversations. Combines deterministic rule checks with Gemini LLM judgment to produce quality scores, risk scores, and violation reports.
 
 ```
 Raw Conversation JSON
