@@ -13,7 +13,7 @@ import urllib.error
 from typing import Optional
 
 
-GEMINI_API_KEY = "AIzaSyDnNFnxT2IGWQUd-coEQUYBOdTBuBr39Lc"
+GEMINI_API_KEY = "###Gemini-key"
 GEMINI_MODEL = "gemini-3.1-pro-preview"
 GEMINI_API_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
